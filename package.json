@@ -13,7 +13,7 @@
     "Pedro Sousa Barreto <pedrosousabarreto@gmail.com>"
   ],
   "dependencies": {
-    "axios": "^0.26.0"
+    "axios": "^1.6.0"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
